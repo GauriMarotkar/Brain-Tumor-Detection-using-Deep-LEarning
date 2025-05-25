@@ -1,1 +1,1 @@
-# Brain-Tumor-Detection-using-Deep-LEarning
+# Brain-Tumor-Detection-using-Deep-Learning
